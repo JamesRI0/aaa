@@ -1,7 +1,6 @@
-# aaa
-**<!DOCTYPE html>
-<html lang="en">
 <head>
+<!DOCTYPE html>
+<html lang="en">
     <meta charset="UTF-8">
     <title>Sunnydale School</title>
   <style>
